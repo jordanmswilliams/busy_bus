@@ -4,7 +4,7 @@
 
 body{
   background-color: #e5e5e5;
-  font-family: sans-serif;
+  font-family: 'Open Sans', sans-serif;
   font-size: 14px; }
 
 .container {
@@ -24,7 +24,7 @@ nav {
   line-height: normal;
   font-size: 34px;
   font-weight: normal;
-  font-family: SF Pro Display;
+  font-family: 'Open Sans', sans-serif;
   color: #1A5B77;
   padding: px;
   padding-left: 20px;
@@ -52,6 +52,14 @@ nav {
 }
 
 .arrow2 {
+
+/*  background-image: url(images/baku_1.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  margin: 0 auto;
+  width: 420px;
+  height: 800px; */
+
   width: 15%;
   display: inline-block;
   padding-left: 20px;
@@ -81,7 +89,7 @@ nav {
 .centered2 {
   font-size: 20px;
   font-weight: regular;
-  font-family: Sans-Serif;
+  font-family: 'Open Sans', sans-serif;
   position: absolute;
   vertical-align:middle;
   top: 50%;
@@ -163,7 +171,7 @@ nav {
   padding-top: 13px;
   font-size: 20px;
   font-weight: normal;
-  font-family: SF Pro Display;
+  font-family: 'Open Sans', sans-serif;
   vertical-align: middle;
   text-align: center;
   color: #1A5B77;
@@ -187,7 +195,7 @@ nav {
 .back_nav h5 {
   font-size: 18px;
   font-weight: normal;
-  font-family: SF Pro Display;
+  font-family: 'Open Sans', sans-serif;
   color: #1A5B77;
   padding-bottom: 30px;
   padding-left: 40px;
@@ -211,7 +219,7 @@ nav {
 .location3 h4{
   font-size: 18px;
   font-weight: regular;
-  font-family: SF Pro Display;
+  font-family: 'Open Sans', sans-serif;
   padding-top: 13px;
   margin: 0px;
 }
@@ -226,7 +234,7 @@ h1{
   line-height: 2%;
   font-size: 18px;
   font-weight: normal;
-  font-family: SF Pro Display;
+  font-family: 'Open Sans', sans-serif;
   display:block;
   margin-top: 12px;
 }
@@ -235,7 +243,7 @@ h2{
   line-height: 1%;
   font-size: 18px;
   font-weight: normal;
-  font-family: SF Pro Display;
+  font-family: 'Open Sans', sans-serif;
   display:inline-block;
   vertical-align: middle;
   text-align: center;
@@ -245,7 +253,7 @@ h3{
   line-height: 2%;
   font-size: 14px;
   font-weight: normal;
-  font-family: SF Pro Display;
+  font-family: 'Open Sans', sans-serif;
   display:inline-block;
   vertical-align: middle;
   margin-top: 6px;
@@ -255,7 +263,7 @@ h4{
   line-height: 1%;
   font-size: 20px;
   font-weight: normal;
-  font-family: SF Pro Display;
+  font-family: 'Open Sans', sans-serif;
   /*display:inline-block;*/
 }
 
@@ -265,7 +273,7 @@ h5{
   line-height: 1%;
   font-size: 18px;
   font-weight: normal;
-  font-family: SF Pro Display;
+  font-family: 'Open Sans', sans-serif;
   display:block-inline;
   font-color: #1A5B77;
   vertical-align: middle;
@@ -280,8 +288,9 @@ h5{
   background-color: black;
 }
 
-.location2 {
-  padding-top: 10px;
+.location2 img{
+  padding-top: 0px;
+  vertical-align: top;
 }
 
 
